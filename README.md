@@ -1,0 +1,2 @@
+# Django url
+ zuri assignment
